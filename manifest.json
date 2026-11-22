@@ -59,6 +59,56 @@
       ],
       "ast": [
         "aggregate/ast/635ffd17f2bf3c095c8881b53441a7c3d968775f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/635ffd17f2bf3c095c8881b53441a7c3d968775f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "arraydeque",
+          "ecosystem": "CARGO",
+          "version": "0.5.1",
+          "githubOrg": "andylokandy",
+          "githubRepo": "arraydeque",
+          "githubUrl": "https://github.com/andylokandy/arraydeque",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "encoding_rs",
+          "ecosystem": "CARGO",
+          "version": "0.8.33",
+          "githubOrg": "hsivonen",
+          "githubRepo": "encoding_rs",
+          "githubCommit": "c19edf7f9e942f8a746b8c053a343bfef2387ca6",
+          "githubTag": "v0.8.33",
+          "githubUrl": "https://github.com/hsivonen/encoding_rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hashlink",
+          "ecosystem": "CARGO",
+          "version": "0.11",
+          "githubOrg": "djc",
+          "githubRepo": "hashlink",
+          "githubUrl": "https://github.com/djc/hashlink",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "libtest-mimic",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "LukasKalbertodt",
+          "githubRepo": "libtest-mimic",
+          "githubUrl": "https://github.com/LukasKalbertodt/libtest-mimic",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
