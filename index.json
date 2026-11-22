@@ -1,0 +1,11 @@
+{
+  "org": "Ethiraric",
+  "repo": "yaml-rust2",
+  "versions": [
+    {
+      "commit": "635ffd17f2bf3c095c8881b53441a7c3d968775f",
+      "tag": "v0.11.0",
+      "parsed_at": "2026-11-22T11:07:29.445229+00:00"
+    }
+  ]
+}
